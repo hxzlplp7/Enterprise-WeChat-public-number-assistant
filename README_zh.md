@@ -1,5 +1,9 @@
 # 🌟 企业微信公众号助手
 
+[![GitHub License](https://img.shields.io/github/license/yourusername/Enterprise-weixin-public-number-assistant)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/Enterprise-weixin-public-number-assistant)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/stargazers)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yourusername/Enterprise-weixin-public-number-assistant/main.yml)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/actions)
+
 [English](README.md) | [简体中文](README_zh.md)
 
 ## 📖 项目简介
@@ -101,7 +105,7 @@ crontab -e
 ```
 
 ### 云函数部署
-支持部署到腾讯云函数、阿里云函数等具有公网IP的服务器。请按照提供商文档进行设置。
+支持部署到腾讯云函数、阿里云函数等。请按照提供商文档进行设置。
 
 ## 📝 模板配置
 在 `template.py` 中自定义消息模板，使用以下占位符:
@@ -128,12 +132,13 @@ crontab -e
 3. **农历生日计算错误**
    - 解决：检查日期是否存在闰月
 
+## 🙏 赞助声明
+本项目由 VTEXS 的「开源项目免费 VPS 计划」提供服务器支持。
+感谢 VTEXS 对开源社区的支持! 
+
 ## 📜 许可证
 MIT License
 
 ## 🤝 贡献指南
 欢迎提交 Issues 或 Pull Requests 来完善本项目。 
 
-## 🙏 赞助声明
-本项目由 VTEXS 的「开源项目免费 VPS 计划」提供服务器支持。
-感谢 VTEXS 对开源社区的支持! 

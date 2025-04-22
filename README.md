@@ -1,5 +1,9 @@
 # 🌟 Enterprise WeChat Official Account Assistant
 
+[![GitHub License](https://img.shields.io/github/license/yourusername/Enterprise-weixin-public-number-assistant)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/Enterprise-weixin-public-number-assistant)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/stargazers)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yourusername/Enterprise-weixin-public-number-assistant/main.yml)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/actions)
+
 [English](README.md) | [简体中文](README_zh.md)
 
 ## 📖 Project Overview
@@ -101,7 +105,7 @@ crontab -e
 ```
 
 ### Cloud Function Deployment
-Supports deployment to Tencent Cloud Serverless Cloud Function (SCF) , Alibaba Cloud Function Compute , and other servers with public IP addresses . Please configure according to the provider’s documentation.
+Supports Tencent Cloud Functions, Alibaba Cloud Functions, etc. Follow provider docs for setup.
 
 ## 📝 Template Customization
 Customize `template.py` with these placeholders:
