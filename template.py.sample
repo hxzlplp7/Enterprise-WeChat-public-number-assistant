@@ -1,0 +1,43 @@
+################################################################################
+#     本文件为所有可用显示的变量内容，如有需要请自行复制到template.py文件                 #
+#       自定义图标使用图标的unicode编码即可，例如\U0001F4C5为日历的图标                 #
+#       图标网站参考:  https://www.emojiall.com/zh-hans/all-emojis               #
+################################################################################
+-------------------------------分割线---------------------------------
+# 可供显示的字段和说明如下，请自行配置需要显示的字段到template.py
+date 				    # 日期
+region				    # 地区
+weather				    # 天气
+min_temp			    # 最低气温
+max_temp			    # 最低气温
+temp				    # 当前气温
+wind_dir			    # 当前风向
+pm2p5				    # pm2.5值
+category			    # 空气质量
+sunrise				    # 日出时间
+sunset				    # 日落时间
+commemoration_day1	    # 纪念日1的累计时间
+commemoration_day2	    # 纪念日2的累计时间
+birthday1			    # 生日1的倒计时
+birthday2			    # 生日2的倒计时
+proposal			    # 今日建议
+chp					    # 彩虹屁
+note_en				    # 每日一句英文
+note_ch				    # 每日一句中文
+yq					    # 疫情数据通报
+horoscope1              # 星座运势1
+horoscope2              # 星座运势2
+countdown1              # 倒计时1
+countdown2              # 倒计时2
+xqm                     # 生活小窍门
+health_tip              # 健康小提示
+saylove                 # 土味情话
+zaoan                   # 早安心语
+wanan                   # 晚安心语
+dujitang                # 毒鸡汤
+tiangou                 # 舔狗日记
+mnpara                  # 小段子
+wenan                   # 朋友圈文案
+proverb                 # 文化谚语
+"""
+-------------------------------分割线---------------------------------
