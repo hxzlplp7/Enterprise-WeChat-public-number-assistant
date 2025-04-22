@@ -1,8 +1,8 @@
 # 🌟 Enterprise WeChat Official Account Assistant
 
-[![GitHub License](https://img.shields.io/github/license/yourusername/Enterprise-weixin-public-number-assistant)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/blob/main/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/Enterprise-weixin-public-number-assistant)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/stargazers)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yourusername/Enterprise-weixin-public-number-assistant/main.yml)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/actions)
+[![GitHub License](https://img.shields.io/github/license/hxzlplp7/Enterprise-weixin-public-number-assistant)](https://github.com/hxzlplp7/Enterprise-weixin-public-number-assistant/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/hxzlplp7/Enterprise-weixin-public-number-assistant)](https://github.com/hxzlplp7/Enterprise-weixin-public-number-assistant/stargazers)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/hxzlplp7/Enterprise-weixin-public-number-assistant/main.yml)](https://github.com/hxzlplp7/Enterprise-weixin-public-number-assistant/actions)
 
 [English](README.md) | [简体中文](README_zh.md)
 
@@ -29,7 +29,7 @@ The Enterprise WeChat Official Account Assistant is an automation tool designed 
 ## 🚀 Installation Steps
 1. Clone the repository locally or on your server:
    ```bash
-   git clone https://github.com/yourusername/Enterprise-WeChat-public-number-assistant.git
+   git clone https://github.com/hxzlplp7/Enterprise-WeChat-public-number-assistant.git
    cd Enterprise-WeChat-public-number-assistant
    ```
 2. Install dependencies:
