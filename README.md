@@ -2,7 +2,6 @@
 
 [![GitHub License](https://img.shields.io/github/license/hxzlplp7/Enterprise-weixin-public-number-assistant)](https://github.com/hxzlplp7/Enterprise-weixin-public-number-assistant/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/hxzlplp7/Enterprise-weixin-public-number-assistant)](https://github.com/hxzlplp7/Enterprise-weixin-public-number-assistant/stargazers)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/hxzlplp7/Enterprise-weixin-public-number-assistant/main.yml)](https://github.com/hxzlplp7/Enterprise-weixin-public-number-assistant/actions)
 
 [English](README.md) | [简体中文](README_zh.md)
 
