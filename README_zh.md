@@ -133,3 +133,7 @@ MIT License
 
 ## 🤝 贡献指南
 欢迎提交 Issues 或 Pull Requests 来完善本项目。 
+
+## 🙏 赞助声明
+本项目由 VTEXS 的「开源项目免费 VPS 计划」提供服务器支持。
+感谢 VTEXS 对开源社区的支持! 

@@ -128,6 +128,10 @@ Customize `template.py` with these placeholders:
 3. **Lunar birthday calculation incorrect**
    - Solution: Ensure the date exists in the lunar calendar (e.g., leap months)
 
+## 🙏 Sponsorship
+This project is supported by the "Free VPS for Open Source Projects" program from VTEXS.
+Thanks to VTEXS for supporting the open source community!
+
 ## 📜 License
 MIT License
 
