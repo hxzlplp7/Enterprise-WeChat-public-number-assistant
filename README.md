@@ -101,7 +101,7 @@ crontab -e
 ```
 
 ### Cloud Function Deployment
-Supports Tencent Cloud Functions, Alibaba Cloud Functions, etc. Follow provider docs for setup.
+Supports deployment to Tencent Cloud Serverless Cloud Function (SCF) citeturn0search0, Alibaba Cloud Function Compute citeturn0search1, and other servers with public IP addresses citeturn1search10. Please configure according to the provider’s documentation.
 
 ## 📝 Template Customization
 Customize `template.py` with these placeholders:
