@@ -1,8 +1,7 @@
 # 🌟 企业微信公众号助手
 
-[![GitHub License](https://img.shields.io/github/license/yourusername/Enterprise-weixin-public-number-assistant)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/blob/main/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/Enterprise-weixin-public-number-assistant)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/stargazers)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yourusername/Enterprise-weixin-public-number-assistant/main.yml)](https://github.com/yourusername/Enterprise-weixin-public-number-assistant/actions)
+[![GitHub License](https://img.shields.io/github/license/hxzlplp7/Enterprise-weixin-public-number-assistant)](https://github.com/hxzlplp7/Enterprise-weixin-public-number-assistant/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/hxzlplp7/Enterprise-weixin-public-number-assistant)](https://github.com/hxzlplp7/Enterprise-weixin-public-number-assistant/stargazers)
 
 [English](README.md) | [简体中文](README_zh.md)
 
@@ -29,7 +28,7 @@
 ## 🚀 安装步骤
 1. 克隆本仓库到本地或服务器:
    ```bash
-   git clone https://github.com/yourusername/Enterprise-WeChat-public-number-assistant.git
+   git clone https://github.com/hxzlplp7/Enterprise-WeChat-public-number-assistant.git
    cd Enterprise-WeChat-public-number-assistant
    ```
 2. 安装所需依赖:
